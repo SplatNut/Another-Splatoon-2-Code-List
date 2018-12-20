@@ -1,0 +1,12 @@
+@nsobid-24EA99F392E43DEE6CEEE3024409A2AB
+
+@flag offset_shift 0x100
+
+/ Splatoon 2 4.3.1 Codes 
+/ IM
+/ BI
+/ -Samu,2017
+
+// Godmode [SplatNut]
+@enabled
+00FD15EC 160080D2
