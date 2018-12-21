@@ -3,9 +3,7 @@
 @flag offset_shift 0x100
 
 / Splatoon 2 4.3.1 Codes 
-/ IM
-/ BI
-/ -Samu,2017
+/ Well im not RandomHacker so that means no NoHash for you. ¯\_(ツ)_/¯
 
 / Sorry fellow Hax0rs but I wont keep my Codes Private.
 / Have fun and also remember dont abuse them Online.
@@ -13,3 +11,12 @@
 // Godmode [SplatNut]
 @enabled
 00FD15EC 160080D2
+
+// Swim in Ink anywhere [SplatNut]
+@enabled
+00F9302C 1F090071
+00F93008 07000014
+00F92FCC 48008052
+01090C80 1F2003D5
+010908A0 540080D2
+01090C30 13000014
