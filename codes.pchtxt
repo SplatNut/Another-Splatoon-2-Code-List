@@ -10,6 +10,10 @@
 / Sorry fellow Hax0rs but I wont keep my Codes Private.
 / Have fun and also remember dont abuse them Online.
 
+// Nuke save on boot [Samu]
+@enabled
+0036EF58 2094F997
+
 // Godmode [SplatNut]
 @enabled
 00FD15EC 160080D2
